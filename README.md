@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FOR.JIHYE&fontSize=80" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=gongyoon93&fontSize=80" />
 </p>
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
