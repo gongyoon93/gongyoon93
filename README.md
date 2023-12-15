@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/-Vue-blue"/>&nbsp  
   <img src="https://img.shields.io/badge/-Next-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Typescript-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-query-purple"/>&nbsp
+  <img src="https://img.shields.io/badge/-Recoil-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
