@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Typescript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-ReactQuery-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-Recoil-purple"/>&nbsp
+  <img src="https://img.shields.io/badge/-zustand-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
