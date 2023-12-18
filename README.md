@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-Vue-blue"/>&nbsp  
   <img src="https://img.shields.io/badge/-Next-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Typescript-yellow"/>&nbsp
+  <br/>
   <img src="https://img.shields.io/badge/-ReactQuery-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-Recoil-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-zustand-purple"/>&nbsp
