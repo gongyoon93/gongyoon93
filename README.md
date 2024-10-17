@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-  I'm YOUNGJIN JANG, a Front-end Developer. 👩
+  I'm Gong Yoon, a Front-end Developer. 👩
 </p>
 <br />
 <br />
